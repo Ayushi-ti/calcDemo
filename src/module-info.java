@@ -1,3 +1,0 @@
-module Calculator {
-	requires junit;
-}
